@@ -5,7 +5,7 @@
 	xsi:schemaLocation="urn:mpeg:DASH:schema:MPD:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
 	profiles="urn:mpeg:dash:profile:isoff-live:2011"
 	type="static"
-	mediaPresentationDuration="PT10M34.1S"
+	mediaPresentationDuration="PT2M34.1S"
 	minBufferTime="PT16.0S">
 	<ProgramInformation>
 		<Title>Big Buck Bunny, Sunflower version</Title>
